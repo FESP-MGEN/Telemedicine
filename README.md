@@ -1,0 +1,7 @@
+# Telemedicine - Text analysis
+
+The programs and databases of the project “Textual analysis of medico-economic evaluations of telemedicine” were carried out as part of a research study conducted by FESP-MGEN and researchers from the Interdisciplinary Laboratory for Applied Research in Health Economics (LIRAES). This research was written up in an article entitled: "Determinants of the cost-effectiveness of telemedicine: results from a quantitative and textual analysis of the literature".
+
+In this space, the FESP-MGEN is making the programs and databases available that were developed during this project to carry out all textual analyses. In the context of increasing scientific output, drawing on textual analyses represents a new possibility for understanding and synthesizing the large number of results emerging from literature reviews. These analyses had several objectives: (1) to describe the content of the medico-economic evaluations of telemedicine; (2) to explore the possibility of automating article selection as part of a systematic review of the literature, particularly in the context of medico-economic assessments, at the level of the abstracts (2A) and of the complete articles (2B); (3) to explore whether the tools of sentiment analysis can be used to synthesize the results of medico-economic assessments. All analyses were carried out with the software program Python.
+
+For more informations on the organization or explanation of the programs you can check the Wiki page.
